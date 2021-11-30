@@ -1,0 +1,2 @@
+Prefix plugins/ICA/example
+Plugin ICA inputfile parameters.txt outputfile output.pdf
